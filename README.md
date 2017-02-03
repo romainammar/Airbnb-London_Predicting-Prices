@@ -11,3 +11,9 @@ This notebook will take the reader through the following steps:
 - Features Selection and Pre-processing
 - Models
 - Gridsearch (Model Improvement)
+
+
+
+
+[View Notebook](http://nbviewer.jupyter.org/github/romainammar/Airbnb-London_Predicting-Prices/blob/master/Airbnb_London%20-%20Predicting_Prices.ipynb)
+
